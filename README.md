@@ -113,19 +113,18 @@ A IA pode ajudar a:
 🔹 **Ferramentas úteis:**  
 ✅ **ChatGPT** – Pesquisa e planejamento  
 ✅ **Notion** – Organização e acompanhamento  
-✅ **Duolingo** – Aprendizado de idiomas  
-✅ **Coursera/Udemy** – Cursos práticos  
+✅ **Trello** – Monitoramento e ação  
 
 ---
 
 # 📅 Plano de Ação  
 
-| ✅ Ação | Categoria | Data Limite | Status |
-|---------|------------|------------|---------|
-| Fazer um curso de programação | Aprendizado | 30/04/2025 | Em andamento |
-| Criar um projeto pessoal | Prática | 15/05/2025 | Pendente |
-| Escrever um artigo sobre IA | Networking | 01/06/2025 | Pendente |
-| Participar de eventos da área | Desenvolvimento Pessoal | 10/06/2025 | Pendente |
+| ✅ Ação                       | Categoria              | Data Limite | Status      |
+|-------------------------------|-------------------------|------------|--------------|
+| Fazer um curso de programação | Aprendizado             | 30/04/2025 | Em andamento |
+| Criar um projeto pessoal      | Prática                 | 15/05/2025 | Pendente     |
+| Escrever um artigo sobre IA   | Networking              | 01/06/2025 | Pendente     |
+| Participar de eventos da área | Desenvolvimento Pessoal | 10/06/2025 | Pendente     |
 
 💡 **Adicione datas e acompanhe seu progresso!**  
 
