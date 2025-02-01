@@ -2,6 +2,7 @@
 # 🧭 Construindo Meu Futuro: Plano de Desenvolvimento Individual (PDI)
 
 ## 🎯 Objetivo da Apresentação
+
 - Entender o que é um PDI.
 - Descobrir seus valores e objetivos.
 - Criar um plano para alcançar seus sonhos.
