@@ -121,8 +121,7 @@ A IA pode ajudar a:
 
 🔹 **Ferramentas úteis:**  
 ✅ **ChatGPT** – Pesquisa e planejamento  
-✅ **Notion** – Organização e acompanhamento  
-✅ **Trello** – Monitoramento e ação  
+✅ **Notion** – Organização, acompanhamento, monitoramento e ação  
 
 ---
 
