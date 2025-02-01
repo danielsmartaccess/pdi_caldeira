@@ -1,0 +1,152 @@
+{
+    "title": "🎯 Questionário Inteligente – Quem Sou Eu e O Que Quero Construir no Mundo?",
+    "description": "Este questionário ajudará você a entender melhor seus valores, habilidades e objetivos para construir um plano de desenvolvimento pessoal.",
+    "questions": [
+        {
+            "question": "1.1. Quais dessas palavras melhor descrevem você? (Escolha até 3)",
+            "type": "checkbox",
+            "options": [
+                "Criativo",
+                "Analítico",
+                "Comunicativo",
+                "Estratégico",
+                "Organizado",
+                "Curioso",
+                "Empático",
+                "Líder",
+                "Inovador",
+                "Pragmático"
+            ]
+        },
+        {
+            "question": "1.2. O que mais te motiva?",
+            "type": "checkbox",
+            "options": [
+                "Resolver problemas complexos",
+                "Criar algo novo do zero",
+                "Ensinar e compartilhar conhecimento",
+                "Impactar positivamente a vida das pessoas",
+                "Trabalhar com tecnologia e inovação",
+                "Construir um negócio de sucesso",
+                "Explorar o mundo e novas culturas"
+            ]
+        },
+        {
+            "question": "1.3. Como você toma decisões importantes?",
+            "type": "multiple_choice",
+            "options": [
+                "Com base na lógica e análise dos fatos",
+                "Seguindo minha intuição e sentimentos",
+                "Perguntando a pessoas de confiança",
+                "Fazendo testes antes de escolher"
+            ]
+        },
+        {
+            "question": "1.4. Em que momentos você se sente mais energizado?",
+            "type": "checkbox",
+            "options": [
+                "Quando estou aprendendo algo novo",
+                "Quando estou criando algo do zero",
+                "Quando estou ajudando alguém a crescer",
+                "Quando resolvo um problema desafiador",
+                "Quando estou em um ambiente dinâmico e inovador"
+            ]
+        },
+        {
+            "question": "1.5. Se dinheiro não fosse um problema, o que você faria pelo resto da vida?",
+            "type": "short_answer"
+        },
+        {
+            "question": "2.1. O que você gostaria que as pessoas lembrassem sobre você no futuro?",
+            "type": "multiple_choice",
+            "options": [
+                "Como alguém que transformou vidas",
+                "Como um inovador e criador de algo novo",
+                "Como um mentor que ajudou muitas pessoas a crescerem",
+                "Como um especialista na minha área de atuação",
+                "Como um empreendedor que construiu algo duradouro"
+            ]
+        },
+        {
+            "question": "2.2. Qual problema do mundo mais te incomoda e que você gostaria de resolver?",
+            "type": "checkbox",
+            "options": [
+                "Acesso à educação de qualidade",
+                "Saúde e bem-estar das pessoas",
+                "Sustentabilidade e meio ambiente",
+                "Tecnologia e inovação para melhorar vidas",
+                "Desigualdade social e oportunidades",
+                "Falta de criatividade e inovação nos negócios",
+                "Outro"
+            ]
+        },
+        {
+            "question": "2.3. Se você pudesse criar algo impactante, o que seria?",
+            "type": "multiple_choice",
+            "options": [
+                "Um projeto educacional",
+                "Uma empresa inovadora",
+                "Um produto tecnológico",
+                "Um movimento social",
+                "Um livro ou conteúdo de valor",
+                "Um espaço de aprendizado e desenvolvimento"
+            ]
+        },
+        {
+            "question": "2.4. Quem são as pessoas ou referências que mais te inspiram?",
+            "type": "short_answer"
+        },
+        {
+            "question": "3.1. Quais dessas habilidades você já tem e quer aprimorar? (Escolha até 3)",
+            "type": "checkbox",
+            "options": [
+                "Liderança e gestão de equipes",
+                "Comunicação e oratória",
+                "Criatividade e inovação",
+                "Pensamento analítico e solução de problemas",
+                "Estratégia e planejamento de negócios",
+                "Programação e tecnologia",
+                "Marketing e vendas",
+                "Inteligência emocional e autogestão"
+            ]
+        },
+        {
+            "question": "3.2. O que você quer aprender nos próximos 12 meses?",
+            "type": "multiple_choice",
+            "options": [
+                "Criar um projeto próprio",
+                "Aprender uma nova habilidade técnica",
+                "Desenvolver mais autoconfiança",
+                "Melhorar minha organização e produtividade",
+                "Fazer networking e conhecer pessoas inspiradoras",
+                "Explorar novas áreas para encontrar minha paixão"
+            ]
+        },
+        {
+            "question": "3.3. Qual dessas frases mais ressoa com você neste momento?",
+            "type": "multiple_choice",
+            "options": [
+                "Quero descobrir o que realmente me faz feliz profissionalmente.",
+                "Quero planejar melhor meu futuro e definir metas claras.",
+                "Quero sair da minha zona de conforto e aprender algo novo.",
+                "Quero usar minhas habilidades para impactar o mundo."
+            ]
+        },
+        {
+            "question": "4.1. Com base nas suas respostas, qual seria um objetivo principal para os próximos 12 meses?",
+            "type": "short_answer"
+        },
+        {
+            "question": "4.2. O que você pode começar a fazer HOJE para caminhar nessa direção?",
+            "type": "short_answer"
+        },
+        {
+            "question": "4.3. Quer que eu gere um plano detalhado com ferramentas de IA para te ajudar a alcançar esse objetivo?",
+            "type": "multiple_choice",
+            "options": [
+                "Sim, quero um passo a passo de como usar a IA para crescer nessa área!",
+                "Não, quero primeiro refletir mais sobre minhas respostas."
+            ]
+        }
+    ]
+}
