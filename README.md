@@ -8,6 +8,10 @@
 - Criar um plano para alcançar seus sonhos.
 - Usar a IA como ferramenta de crescimento.
 
+
+
+
+
 ---
 
 # 📖 Storytelling: O que é Valor?
@@ -20,6 +24,9 @@ Certo dia, seu professor perguntou:
 Pedro percebeu que valor não é apenas dinheiro ou fama, mas **aquilo que guia suas escolhas**.  
 
 E você? **O que realmente tem valor para você?**
+
+
+
 
 ---
 
