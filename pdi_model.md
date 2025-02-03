@@ -59,8 +59,4 @@
 ✅ **Revisão Mensal:** Minhas metas ainda fazem sentido? Preciso ajustar algo?  
 ✅ **Revisão Trimestral:** Meu PDI ainda reflete o que quero para o meu futuro?  
 
-💡 **Dica:** Configure **notificações no Notion** para lembrar das revisões periódicas.  
-
 ---
-
-🚀 **Qual será seu primeiro passo?**  
