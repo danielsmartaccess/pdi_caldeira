@@ -37,6 +37,7 @@ E você? **O que realmente tem valor para você?**
 Eles influenciam como pensamos, sentimos e agimos.  
 
 Exemplos de valores:  
+
 ✅ Respeito  
 ✅ Criatividade  
 ✅ Liberdade  
@@ -50,6 +51,7 @@ Exemplos de valores:
 # 🌍 O que é Valorizado Hoje?
 
 Nos dias de hoje, o mundo valoriza:
+
 🚀 **Inovação e Criatividade**  
 📚 **Educação e Conhecimento**  
 💡 **Empreendedorismo e Solução de Problemas**  
@@ -155,4 +157,5 @@ A IA pode ajudar a:
 📍 Dê o primeiro passo hoje e comece a **construir seu futuro!**  
 
 🔹 **Qual será seu primeiro passo?**  
+https://forms.gle/ikBByWuiCskAL36SA
 
